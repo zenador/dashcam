@@ -1,0 +1,16 @@
+body {
+	background-color: #111111;
+}
+
+div#main {
+	margin: 0.1em 0.5em 0.1em 0.1em;
+}
+
+label {
+	color: #7FDBFF;
+}
+
+textarea, div.Select-control {
+	color: #7FDBFF;
+	background-color: #111111;
+}

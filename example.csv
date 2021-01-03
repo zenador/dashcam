@@ -1,0 +1,7 @@
+source,parameters,metrics,model_name,model_version,year,month,day
+data,"{""country"":""CN"",""colour"":1,""active"":false}","{""tp"":2356,""fp"":3,""fn"":43,""tn"":23}",demo,1,2021,01,01
+data,"{""country"":""JP"",""colour"":2,""active"":false}","{""tp"":4356,""fp"":3,""fn"":43,""tn"":23}",demo,1,2021,01,01
+data,"{""country"":""KR"",""colour"":3,""active"":false}","{""tp"":1356,""fp"":3,""fn"":43,""tn"":23}",demo,1,2021,01,01
+data,"{""country"":""CN"",""colour"":2,""active"":true}","{""tp"":356,""fp"":3,""fn"":43,""tn"":23}",demo,1,2021,01,01
+data,"{""country"":""JP"",""colour"":3,""active"":true}","{""tp"":236,""fp"":3,""fn"":43,""tn"":23}",demo,1,2021,01,01
+data,"{""country"":""KR"",""colour"":1,""active"":true}","{""tp"":135,""fp"":3,""fn"":43,""tn"":23}",demo,1,2021,01,01
